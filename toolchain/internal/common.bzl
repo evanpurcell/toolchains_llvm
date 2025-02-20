@@ -32,7 +32,7 @@ _toolchain_tools = {
         "clangd",
         "ld.lld",
         "llvm-ar",
-        "llvm-dwp",
+        "dwp",
         "llvm-profdata",
         "llvm-cov",
         "llvm-nm",
