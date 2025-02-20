@@ -123,7 +123,7 @@ filegroup(
 
 filegroup(
     name = "dwp",
-    srcs = ["bin/llvm-dwp"],
+    srcs = ["bin/dwp"],
 )
 
 filegroup(
